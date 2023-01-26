@@ -1,4 +1,4 @@
-# chat_gpt_integration
+# AnyThoughts
 
 A new Flutter project.
 
