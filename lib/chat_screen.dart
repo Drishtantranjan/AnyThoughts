@@ -47,7 +47,7 @@ class _ChatScreenState extends State<ChatScreen> {
 
    
     _subscription = chatGPT!
-        .builder("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",
+        .builder("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",
             orgId: "")
         .onCompleteStream(request: request)
         .listen((response) {
